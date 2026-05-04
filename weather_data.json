@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-05-04",
+    "temperature": 19.0,
+    "description": "ХОЛОДНО BLY",
+    "precipitation": "Да"
+  },
+  {
+    "date": "2026-05-03",
+    "temperature": 10.0,
+    "description": "ну холодно",
+    "precipitation": "Да"
+  },
+  {
+    "date": "2026-05-02",
+    "temperature": 15.0,
+    "description": "нет дождя",
+    "precipitation": "Нет"
+  }
+]
